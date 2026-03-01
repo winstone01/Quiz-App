@@ -1,4 +1,4 @@
-# Quiz App — Vol 1.3
+# Quiz App 
 
 A lightweight, responsive **Quiz App** built with vanilla HTML, CSS, and JavaScript.  
 Includes a start screen, timed multiple-choice questions, instant answer feedback, and a final score summary with restart.
